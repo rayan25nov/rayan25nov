@@ -24,7 +24,7 @@
 
 <h2>🚀 Experience</h2>
 
-**Software Development Engineer** @ [Aiquant Technologies](https://www.linkedin.com/company/aiquant/) 
+**Software Development Engineer** @ [Aiquant Technologies](https://www.linkedin.com/company/aiquant/)
 _Cardano Blockchain Ecosystem_  
 `Sep 2024 - Present`
 
@@ -98,5 +98,13 @@ _Relevant Coursework: DSA, DBMS, OS, Computer Networks_
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rayan25nov&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rayan25nov/rayan25nov/output/snake.svg" alt="Snake animation" />
 
 ###
