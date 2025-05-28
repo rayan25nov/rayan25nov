@@ -66,15 +66,15 @@ Git | GitHub | Postman | VS Code | Cloudinary | Docker
 
 - **Full Stack Blog Application**  
   MERN Stack | JWT Auth | Dark Mode  
-  [![GitHub](https://img.shields.io/badge/-Source_Code-181717?logo=github)](PROJECT_LINK)
-
-- **Blockchain Wallet Referral System**  
-  Cardano CLI | Lucid.js | Blockfrost API  
-  [![GitHub](https://img.shields.io/badge/-Source_Code-181717?logo=github)](PROJECT_LINK)
+  [![GitHub](https://img.shields.io/badge/-Source_Code-181717?logo=github)](<[PROJECT_LINK](https://github.com/rayan25nov/Blog-Application)>)
 
 - **Weather Dashboard**  
   React | OpenWeather API | Redux  
-  [![GitHub](https://img.shields.io/badge/-Source_Code-181717?logo=github)](PROJECT_LINK)
+  [![GitHub](https://img.shields.io/badge/-Source_Code-181717?logo=github)](<[PROJECT_LINK](https://github.com/rayan25nov/Weather-Application)>)
+
+- **Tenzora NFT Market Place**  
+  MERN Stack | Cardano | Redux | Browser Wallet | Mesh Sdk | Lucid Cardano  
+  [![GitHub](https://img.shields.io/badge/-Source_Code-181717?logo=github)](<[PROJECT_LINK](https://github.com/rayan25nov/Tenzora)>)
 
 ###
 
