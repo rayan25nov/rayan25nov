@@ -26,14 +26,14 @@
 
 **Software Development Engineer** @ [Aiquant Technologies](https://www.linkedin.com/company/aiquant/) 
 _Cardano Blockchain Ecosystem_  
-`Feb 2023 - Present`
+`Sep 2024 - Present`
 
 - Developed wallet referral system using MERN stack with Lucid.js & Blockfrost API
 - Optimized blockchain applications using Mesh.js, Cardano CLI, and Pinata SDK
 - Tech Stack: React, Node.js, MongoDB, REST APIs, Cardano Explorer
 
 **Web Development Intern** @ Catnyx India Pvt Ltd  
-`Internship Dates`
+`Mar 2024 - May 2024`
 
 - Developed client websites using HTML/CSS/JavaScript
 - Implemented testing and maintenance protocols
