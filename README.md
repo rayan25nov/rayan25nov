@@ -24,7 +24,7 @@
 
 <h2>🚀 Experience</h2>
 
-**Software Development Engineer** @ [Aiquant Technologies](https://aiquant.io/)  
+**Software Development Engineer** @ [Aiquant Technologies](https://aiquant.io/](https://www.linkedin.com/company/aiquant/)  
 _Cardano Blockchain Ecosystem_  
 `Feb 2023 - Present`
 
