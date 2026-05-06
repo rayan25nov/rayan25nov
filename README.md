@@ -72,10 +72,6 @@ Git | GitHub | Postman | VS Code | Cloudinary | Docker
   React | OpenWeather API | Redux  
   [![GitHub](https://img.shields.io/badge/-Source_Code-181717?logo=github)](<[PROJECT_LINK](https://github.com/rayan25nov/Weather-Application)>)
 
-- **Cardano Key Converter**  
-  Cardano | TypeScript | Lucid Evolution | npm Package | ESM + CJS Compatible  
-  [![GitHub](https://img.shields.io/badge/-Source_Code-181717?logo=github)](https://github.com/rayan25nov/Cardano-Key-Converter)
-
 ###
 
 <h2>📚 Education</h2>
