@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayan Ahmad</h1>
-<h3 align="center">Software Development Engineer from Kolkata, India</h3>
+<h3 align="center">Software Developer from Kolkata, India</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rayan-ahmad-25nov/">
@@ -24,13 +24,18 @@
 
 <h2>🚀 Experience</h2>
 
-**Software Development Engineer** @ [Aiquant Technologies](https://www.linkedin.com/company/aiquant/)
-_Cardano Blockchain Ecosystem_  
-`Sep 2024 - Present`
+**System Engineer** @ [Tata Consultancy Services](https://www.tcs.com/)  
+`May 2026 - Present`
 
-- Developed wallet referral system using MERN stack with Lucid.js & Blockfrost API
-- Optimized blockchain applications using Mesh.js, Cardano CLI, and Pinata SDK
-- Tech Stack: React, Node.js, MongoDB, REST APIs, Cardano Explorer
+- Building and maintaining scalable applications as part of the core engineering team
+- Tech Stack: Angular, Spring Boot, PostgreSQL, Jenkins
+
+**Software Development Engineer** @ [Aiquant Technologies](https://www.linkedin.com/company/aiquant/)  
+`Sep 2024 - May 2026`
+
+- Developed referral systems using the MERN stack
+- Optimized web applications and integrated third-party SDKs
+- Tech Stack: React, Node.js, MongoDB, REST APIs
 
 **Web Development Intern** @ Catnyx India Pvt Ltd  
 `Mar 2024 - May 2024`
@@ -46,19 +51,16 @@ _Cardano Blockchain Ecosystem_
 JavaScript | Java | C | C++ | Python | TypeScript
 
 **Frontend**  
-React.js | Redux.js | HTML5 | CSS3 | Bootstrap | Swiper.js
+React.js | Angular | Redux.js | HTML5 | CSS3 | Bootstrap | Swiper.js
 
 **Backend**  
-Node.js | Express.js | REST APIs | JSON Web Tokens (JWT)
+Node.js | Express.js | Spring Boot | REST APIs | JSON Web Tokens (JWT)
 
 **Databases**  
-MongoDB | MySQL | MongoDB Atlas
-
-**Blockchain**  
-Cardano CLI | Lucid.js | Blockfrost API | Mesh.js | Pinata SDK
+MongoDB | PostgreSQL | MySQL | MongoDB Atlas
 
 **Tools & Platforms**  
-Git | GitHub | Postman | VS Code | Cloudinary | Docker
+Git | GitHub | Jenkins | Postman | VS Code | Cloudinary | Docker
 
 ###
 
